@@ -1,0 +1,14 @@
+C:\Users\kiril\OneDrive\Рабочий стол\projects\Innowise\StrictFireAndForget\StrictFireAndForget\StrictFireAndForget\bin\Debug\StrictFireAndForget.exe.config
+C:\Users\kiril\OneDrive\Рабочий стол\projects\Innowise\StrictFireAndForget\StrictFireAndForget\StrictFireAndForget\bin\Debug\StrictFireAndForget.exe
+C:\Users\kiril\OneDrive\Рабочий стол\projects\Innowise\StrictFireAndForget\StrictFireAndForget\StrictFireAndForget\bin\Debug\StrictFireAndForget.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\projects\Innowise\StrictFireAndForget\StrictFireAndForget\StrictFireAndForget\obj\Debug\StrictFireAndForget.csproj.AssemblyReference.cache
+C:\Users\kiril\OneDrive\Рабочий стол\projects\Innowise\StrictFireAndForget\StrictFireAndForget\StrictFireAndForget\obj\Debug\StrictFireAndForget.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\projects\Innowise\StrictFireAndForget\StrictFireAndForget\StrictFireAndForget\obj\Debug\StrictFireAndForget.exe
+C:\Users\kiril\OneDrive\Рабочий стол\projects\Innowise\StrictFireAndForget\StrictFireAndForget\StrictFireAndForget\obj\Debug\StrictFireAndForget.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\projects\Innowise\StrictFireAndForget\StrictFireAndForget\bin\Debug\StrictFireAndForget.exe.config
+C:\Users\kiril\OneDrive\Рабочий стол\projects\Innowise\StrictFireAndForget\StrictFireAndForget\bin\Debug\StrictFireAndForget.exe
+C:\Users\kiril\OneDrive\Рабочий стол\projects\Innowise\StrictFireAndForget\StrictFireAndForget\bin\Debug\StrictFireAndForget.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\projects\Innowise\StrictFireAndForget\StrictFireAndForget\obj\Debug\StrictFireAndForget.csproj.AssemblyReference.cache
+C:\Users\kiril\OneDrive\Рабочий стол\projects\Innowise\StrictFireAndForget\StrictFireAndForget\obj\Debug\StrictFireAndForget.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\projects\Innowise\StrictFireAndForget\StrictFireAndForget\obj\Debug\StrictFireAndForget.exe
+C:\Users\kiril\OneDrive\Рабочий стол\projects\Innowise\StrictFireAndForget\StrictFireAndForget\obj\Debug\StrictFireAndForget.pdb
