@@ -9,7 +9,7 @@ class Program
         var fireAndForget = new FireAndForgetClass();
 
         Console.WriteLine("Main started");
-        fireAndForget.FireAndForgetMethod();
+        fireAndForget.FireAndForgetMethodAsync();
         Console.WriteLine("Main finished");
     }
 }
