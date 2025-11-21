@@ -5,7 +5,7 @@ namespace StrictFireAndForget
 {
     public class FireAndForgetClass
     {
-        public async void FireAndForgetMethodAsync()
+        public async Task FireAndForgetMethodAsync()
         {
             Console.WriteLine("Method started");
             await Task.Delay(5000);

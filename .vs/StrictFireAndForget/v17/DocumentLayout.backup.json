@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\Innowise\\StrictFireAndForget\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB92519C-6788-4CE0-8AE7-D5AA53B9557F}|StrictFireAndForget\\StrictFireAndForget.csproj|c:\\users\\kiril\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\innowise\\strictfireandforget\\strictfireandforget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB92519C-6788-4CE0-8AE7-D5AA53B9557F}|StrictFireAndForget\\StrictFireAndForget.csproj|C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\Innowise\\StrictFireAndForget\\strictfireandforget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB92519C-6788-4CE0-8AE7-D5AA53B9557F}|StrictFireAndForget\\StrictFireAndForget.csproj|solutionrelative:strictfireandforget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB92519C-6788-4CE0-8AE7-D5AA53B9557F}|StrictFireAndForget\\StrictFireAndForget.csproj|C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\Innowise\\StrictFireAndForget\\strictfireandforget\\fireandforgetclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB92519C-6788-4CE0-8AE7-D5AA53B9557F}|StrictFireAndForget\\StrictFireAndForget.csproj|c:\\users\\kiril\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\innowise\\strictfireandforget\\strictfireandforget\\fireandforgetclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB92519C-6788-4CE0-8AE7-D5AA53B9557F}|StrictFireAndForget\\StrictFireAndForget.csproj|solutionrelative:strictfireandforget\\fireandforgetclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,9 +44,10 @@
               "RelativeDocumentMoniker": "StrictFireAndForget\\FireAndForgetClass.cs",
               "ToolTip": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\Innowise\\StrictFireAndForget\\StrictFireAndForget\\FireAndForgetClass.cs",
               "RelativeToolTip": "StrictFireAndForget\\FireAndForgetClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T08:10:13.828Z"
+              "WhenOpened": "2025-11-20T08:10:13.828Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,7 +57,7 @@
               "RelativeDocumentMoniker": "StrictFireAndForget\\Program.cs",
               "ToolTip": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\projects\\Innowise\\StrictFireAndForget\\StrictFireAndForget\\Program.cs",
               "RelativeToolTip": "StrictFireAndForget\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T08:01:45.804Z",
               "EditorCaption": ""

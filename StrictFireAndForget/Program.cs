@@ -10,6 +10,7 @@ class Program
 
         Console.WriteLine("Main started");
         fireAndForget.FireAndForgetMethodAsync();
+        //Task.Run(() => fireAndForget.FireAndForgetMethodAsync());
         Console.WriteLine("Main finished");
     }
 }
